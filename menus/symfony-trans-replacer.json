@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Replace symfony-trans",
+        "command": "symfony-trans-replacer:replace"
+      }
+    ]
+  }
+}
